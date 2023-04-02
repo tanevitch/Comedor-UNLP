@@ -4,10 +4,10 @@ Aplicación realizada para la materia Metodologías Ágiles para Aplicaciones We
 
 ![Pantalla de inicio de la aplicación](home.png?raw=true "Pantalla de Inicio")
 
-## Objetivo
+## 🌱 Objetivo
 Agilizar la compra y mejorar la interfaz del sistema de gestión actual
 
-## Funcionalidades
+## 🌱 Funcionalidades
 
 * ABM Menús y habilitación de los menús
 ![Pantalla de gestión de menús](menus.png?raw=true "Pantalla de Menus")
